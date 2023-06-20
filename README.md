@@ -1,2 +1,2 @@
 # FacebookLoginClone
-This Code Will You Cloning a Facebook Login Page
+This Code Will Help You In Cloning a Facebook Login Page
